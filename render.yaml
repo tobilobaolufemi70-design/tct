@@ -25,7 +25,7 @@ services:
         sync: false
 
       - key: DASHBOARD_PASS
-        sync: false
+        sync: true
 
       - key: server_port
         value: "3010"
