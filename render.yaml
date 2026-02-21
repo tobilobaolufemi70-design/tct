@@ -22,7 +22,7 @@ services:
         sync: false
 
       - key: DASHBOARD_USER
-        sync: false
+        sync: true
 
       - key: DASHBOARD_PASS
         sync: true
